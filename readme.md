@@ -382,7 +382,6 @@ Es un registro de mi evolución como desarrollador y un lugar donde poder volver
 ---
 
 ## 📌 Estado actual
----
 
 **Estoy realizando el JSCamp y documentando mi progreso módulo por módulo.**
 
